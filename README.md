@@ -20,7 +20,7 @@
 * [Các bước cần thiết](#các-bước-cần-thiết)
 
 ## [GIỚI THIỆU MÔN HỌC](#top)
-* **Tên môn học:**Nhận dạng - Pattern Recognition
+* **Tên môn học:** Nhận dạng - Pattern Recognition
 * **Mã môn học:** CS338
 * **Mã lớp:** CS338.N21.KHCL
 * **Năm học:** HK2 (2022 - 2023)
@@ -39,10 +39,3 @@
 * **Ngôn ngữ lập trình:** Python
 
 ## [CÁC BƯỚC CẦN THIẾT](#top)
-npx vite Seminar
-```
-
-* Dùng câu lệnh bên dưới để chạy code trong folder Final.
-```bash
-npx vite Final
-```
