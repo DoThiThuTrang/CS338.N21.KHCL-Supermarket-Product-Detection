@@ -1,4 +1,3 @@
-# CS338.N21.KHCL
 <a id="top"></a>
 
 <!-- Banner -->
