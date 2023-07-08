@@ -14,7 +14,7 @@
 [![Status](https://img.shields.io/badge/language-python-blue?style=flat-square)](https://github.com/DoThiThuTrang/CS338.N21.KHCL)
 
 ## [BẢNG MỤC LỤC](#top)
-* [Giới thiệu môn học](#giới-thiệu-môn-học)
+* [Giới thiệu môn  học](#giới-thiệu-môn-học)
 * [Thông tin các thành viên](#thông-tin-về-các-thành-viên-nhóm)
 * [Thông tin đồ án](#thông-tin-đồ-án)
 * [Các bước cần thiết](#các-bước-cần-thiết)
