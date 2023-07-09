@@ -6,7 +6,7 @@ import streamlit as st
 
 st.set_page_config(layout="wide")
 
-cfg_model_path = 'Deployment/models/best.pt'
+cfg_model_path = '../Deployment/models/best.pt'
 model = None
 confidence = .25
 
@@ -15,13 +15,13 @@ def image_input(data_src):
     img_file = None
     if data_src == 'Sample data':
         # get all sample images
-        img_path = glob.glob('Deployment/data/sample_images/*')
+        img_path = glob.glob('../Deployment/data/sample_images/*')
         img_slider = st.slider("Select a test image.", min_value=1, max_value=len(img_path), step=1)
         img_file = img_path[img_slider - 1]
     else:
         img_bytes = st.sidebar.file_uploader("Upload an image", type=['png', 'jpeg', 'jpg'])
         if img_bytes:
-            img_file = "Deployment/data/uploaded_data/upload." + img_bytes.name.split('.')[-1]
+            img_file = "../Deployment/data/uploaded_data/upload." + img_bytes.name.split('.')[-1]
             Image.open(img_bytes).save(img_file)
 
     if img_file:
@@ -41,7 +41,7 @@ def infer_image(img, size=None):
     return image
 
 
-@st.cache_resource
+@st.cache_data
 def load_model(path, device):
     model_ = torch.hub.load('ultralytics/yolov5', 'custom', path=path, force_reload=True)
     model_.to(device)
