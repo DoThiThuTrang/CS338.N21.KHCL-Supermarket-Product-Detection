@@ -24,5 +24,6 @@ seaborn>=0.11.0
 ipython  # interactive notebook
 psutil  # system utilization
 thop  # FLOPs computation
+ultralytics
 streamlit
 wget
