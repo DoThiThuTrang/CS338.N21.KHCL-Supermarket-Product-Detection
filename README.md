@@ -35,7 +35,7 @@
 | 3      | 20521663      | Nguyễn Đặng Bảo Ngọc     | Thành viên | [ngocndb03](https://github.com/ngocndb03)      | 20521663@gm.uit.edu.vn   |
 
 ## [THÔNG TIN ĐỒ ÁN](#top)
-* **Đề tài đồ án:** Nhận dạng sản phẩm tạp hóa trong siêu thị - Supermarket Grocery Detection
+* **Đề tài đồ án:** Nhận dạng sản phẩm tạp hóa trong siêu thị - Supermarket Product Detection
 * **Ngôn ngữ lập trình:** Python
 
 ## [CÁC BƯỚC CẦN THIẾT](#top)
