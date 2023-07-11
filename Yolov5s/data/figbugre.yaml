@@ -1,0 +1,31 @@
+train: dataset/original_data
+val: dataset/original_data
+test:  dataset/test_data
+
+# Classes
+names:
+  0: BEAN
+  1: CAKE
+  2: CANDY
+  3: CEREAL
+  4: CHIPS
+  5: CHOCOLATE
+  6: COFFEE
+  7: CORN
+  8: FISH 
+  9: FLOUR
+  10: HONEY
+  11: JAM
+  12: JUICE
+  13: MILK
+  14: NUTS
+  15: OIL
+  16: PASTA
+  17: RICE
+  18: SODA
+  19: SPICE
+  20: SUGA
+  21: TEA
+  22: TOMATO_SAUCE
+  23: VINEGAR
+  24: WATER
