@@ -46,6 +46,7 @@ Chúng tôi đã thực hiện qua 4 giai đoạn để giải quyết bài toá
 * **Bộ dữ liệu lựa chọn:** Freiburg Groceries Dataset
 * **Số lượng:** 4800 ảnh được chụp ở các góc nhìn khác nhau
 * **Số phân loại:** 25 nhóm sản phẩm khác nhau
+
 ![image](Images/dataset.png)
 
 ### 2. Train
@@ -55,5 +56,29 @@ Chúng tôi đã thực hiện qua 4 giai đoạn để giải quyết bài toá
 ### 4. Predict
 
 ## [DEPLOYMENT](#top)
+
+### 1. Giới thiệu
 * **Công cụ hỗ trợ:** Streamlit
 * **Link demo:** [link](https://drive.google.com/file/d/1A8Z_NneHT906PZraNkhBzUzwNszRX0fH/view)
+
+### 2. Các bước cần thiết
+
+#### a. Clone project
+Clone project repository bằng câu lệnh dưới đây.
+
+```bash
+git clone https://github.com/pahopu/CS338.N21.KHCL.git
+```
+
+### 2. Cài đặt thư viện
+Bạn cần tiến hành cài đặt các thư viện cần thiết cho project với câu lệnh dưới đây.
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Chạy code
+Sau khi cài đặt thư viện, dùng câu lệnh dưới đây để chạy code.
+```bash
+streamlit run Deployment/app.py
+```
