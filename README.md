@@ -45,7 +45,7 @@ Chúng tôi đã thực hiện qua 4 giai đoạn để giải quyết bài toá
 * **Bộ dữ liệu lựa chọn:** Freiburg Groceries Dataset
 * **Số lượng:** 4800 ảnh được chụp ở các góc nhìn khác nhau
 * **Số phân loại:** 25 nhóm sản phẩm khác nhau
-![image]()
+![image](Images/dataset.png)
 
 ### 2. Train
 
