@@ -18,6 +18,7 @@
 * [Thông tin các thành viên](#thông-tin-về-các-thành-viên-nhóm)
 * [Thông tin đồ án](#thông-tin-đồ-án)
 * [Các bước cần thiết](#các-bước-cần-thiết)
+* [Deployment](#deployment)
 
 ## [GIỚI THIỆU MÔN HỌC](#top)
 * **Tên môn học:** Nhận dạng - Pattern Recognition
