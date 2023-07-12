@@ -39,3 +39,20 @@
 * **Ngôn ngữ lập trình:** Python
 
 ## [CÁC BƯỚC CẦN THIẾT](#top)
+Chúng tôi đã thực hiện 4 giai đoạn để giải quyết bài toán trên. Các giai đoạn đó lần lượt về data, train, validation và predict.
+
+### 1. Data
+* **Bộ dữ liệu lựa chọn:** Freiburg Groceries Dataset
+* **Số lượng:** 4800 ảnh được chụp ở các góc nhìn khác nhau
+* **Số phân loại:** 25 nhóm sản phẩm khác nhau
+![image]()
+
+### 2. Train
+
+### 3. Validation
+
+### 4. Predict
+
+## [DEPLOYMENT](#top)
+* **Công cụ hỗ trợ:** Streamlit
+* **Link demo:** [link](https://drive.google.com/file/d/1A8Z_NneHT906PZraNkhBzUzwNszRX0fH/view)
