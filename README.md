@@ -74,11 +74,12 @@ git clone https://github.com/DoThiThuTrang/CS338.N21.KHCL.git
 Bạn cần tiến hành cài đặt các thư viện cần thiết cho project với câu lệnh dưới đây.
 
 ```bash
+cd Deployment
 pip install -r requirements.txt
 ```
 
 ### 3. Chạy code
 Sau khi cài đặt thư viện, dùng câu lệnh dưới đây để chạy code.
 ```bash
-streamlit run Deployment/app.py
+streamlit run app.py
 ```
