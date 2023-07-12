@@ -67,7 +67,7 @@ Chúng tôi đã thực hiện qua 4 giai đoạn để giải quyết bài toá
 Clone project repository bằng câu lệnh dưới đây.
 
 ```bash
-git clone https://github.com/pahopu/CS338.N21.KHCL.git
+git clone https://github.com/DoThiThuTrang/CS338.N21.KHCL.git
 ```
 
 ### 2. Cài đặt thư viện
