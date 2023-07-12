@@ -39,7 +39,7 @@
 * **Ngôn ngữ lập trình:** Python
 
 ## [CÁC BƯỚC CẦN THIẾT](#top)
-Chúng tôi đã thực hiện 4 giai đoạn để giải quyết bài toán trên. Các giai đoạn đó lần lượt về data, train, validation và predict.
+Chúng tôi đã thực hiện qua 4 giai đoạn để giải quyết bài toán trên. Các giai đoạn đó sẽ lần lượt về data, train, validation và predict.
 
 ### 1. Data
 * **Bộ dữ liệu lựa chọn:** Freiburg Groceries Dataset
