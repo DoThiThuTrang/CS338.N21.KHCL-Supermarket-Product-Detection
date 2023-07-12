@@ -70,7 +70,7 @@ Clone project repository bằng câu lệnh dưới đây.
 git clone https://github.com/DoThiThuTrang/CS338.N21.KHCL.git
 ```
 
-### 2. Cài đặt thư viện
+#### b. Cài đặt thư viện
 Bạn cần tiến hành cài đặt các thư viện cần thiết cho project với câu lệnh dưới đây.
 
 ```bash
@@ -78,7 +78,7 @@ cd Deployment
 pip install -r requirements.txt
 ```
 
-### 3. Chạy code
+#### c. Chạy code
 Sau khi cài đặt thư viện, dùng câu lệnh dưới đây để chạy code.
 ```bash
 streamlit run app.py
