@@ -43,12 +43,12 @@
 Chúng tôi đã thực hiện qua 4 giai đoạn để giải quyết bài toán trên. Các giai đoạn đó sẽ lần lượt về data, train, validation và predict.
 
 ### 1. Data
-* **Bộ dữ liệu lựa chọn:** Freiburg Groceries Dataset
-* **Số lượng:** 4800 ảnh được chụp ở các góc nhìn khác nhau
-* **Số phân loại:** 25 nhóm sản phẩm khác nhau
+* **Bộ dữ liệu lựa chọn:** Freiburg Groceries Dataset (2014) 
+* **Số lượng:** 4800 bức ảnh của các đối tượng là hàng hóa được bày bán trong siêu thị. Những bức ảnh này được chụp ở nhiều góc độ khác nhau của từng hàng hóa, do đó, sẽ có sự khác nhau cả về độ sáng, kích thước cũng như góc độ của hàng hóa đó.   
+* **Số nhóm phân loại:** 25 nhóm sản phẩm phổ biến khác nhau.
 
 ![image](Images/dataset.png)
-
+Nguồn dataset: http://aisdatasets.informatik.uni-freiburg.de/freiburg_groceries_dataset/
 ### 2. Train
 
 ### 3. Validation
