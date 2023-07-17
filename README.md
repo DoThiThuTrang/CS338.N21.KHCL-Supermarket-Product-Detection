@@ -9,7 +9,7 @@
 
 <h1 align="center"><b>NHẬN DẠNG<br>(PATTERN RECOGNITION)</b></h>
 
-[![Status](https://img.shields.io/badge/status-working-blue?style=flat-square)](https://github.com/DoThiThuTrang/CS338.N21.KHCL)
+[![Status](https://img.shields.io/badge/status-done-blue?style=flat-square)](https://github.com/DoThiThuTrang/CS338.N21.KHCL)
 [![GitHub contributors](https://img.shields.io/github/contributors/DoThiThuTrang/CS338.N21.KHCL?style=flat-square)](https://github.com/DoThiThuTrang/CS338.N21.KHCL/graphs/contributors)
 [![Status](https://img.shields.io/badge/language-python-blue?style=flat-square)](https://github.com/DoThiThuTrang/CS338.N21.KHCL)
 
